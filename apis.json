@@ -1,0 +1,60 @@
+{
+    "name": "luna connect",
+    "description": "luna connect is a data marketplace and developer platform providing fintechs access to banking data using APIs",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28181-lunaconnect-io.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "banking",
+        "have api",
+        "marketplaces",
+        "psd2"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/luna-connect\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "luna connect",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28181-lunaconnect-io.jpg",
+            "humanURL": "https:\/\/lunaconnect.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/luna-connect-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/luna-connect-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/lunaconnect.io\/apis\/index.html"
+        },
+        {
+            "type": "Email",
+            "url": "hello@lunaconnect.io"
+        },
+        {
+            "type": "Sandbox",
+            "url": "https:\/\/lunaconnect.io\/apis\/index.html#data-sandbox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/lunaconnect"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/lunaconnect.io"
+        }
+    ]
+}
